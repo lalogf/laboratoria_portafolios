@@ -1,7 +1,7 @@
 # Preparación para los portafolios 
 
 
-**Pueden ver los Slides [aquí](http://slides.com/lalogf/deck/live#/)**  
+**Pueden ver los Slides [aquí](http://slides.com/lalogf/deck/#/)**  
 
 La idea es que hagan una carpeta en Drive o un proyecto en Github y me lo vayan pasando para revisarlo. 
 
